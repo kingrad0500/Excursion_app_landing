@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-heading{
+    color: white;
+    font-size: 50px;
+    font-weight: lighter;
+}
+.secondary-heading{
+    font-size: 30px;
+    color: white;
+    font-weight: lighter;
+}
+.link{
+    color: aquamarine;
+}
+.styled-paragraph{
+    color: gray;
+    font-size: 22px;
+}
+#info{
+    margin-bottom: 3rem;
+}
